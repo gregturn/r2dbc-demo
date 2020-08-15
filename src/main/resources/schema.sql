@@ -1,0 +1,1 @@
+CREATE TABLE employee (id VARCHAR(255) auto_increment PRIMARY KEY,name VARCHAR(255),role VARCHAR(255))
